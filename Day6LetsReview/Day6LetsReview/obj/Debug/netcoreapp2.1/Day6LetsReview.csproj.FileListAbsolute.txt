@@ -1,0 +1,10 @@
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\bin\Debug\netcoreapp2.1\Day6LetsReview.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\bin\Debug\netcoreapp2.1\Day6LetsReview.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\bin\Debug\netcoreapp2.1\Day6LetsReview.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\bin\Debug\netcoreapp2.1\Day6LetsReview.dll
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\bin\Debug\netcoreapp2.1\Day6LetsReview.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\obj\Debug\netcoreapp2.1\Day6LetsReview.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\obj\Debug\netcoreapp2.1\Day6LetsReview.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\obj\Debug\netcoreapp2.1\Day6LetsReview.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\obj\Debug\netcoreapp2.1\Day6LetsReview.dll
+C:\Users\IMCS\source\repos\HackerRank\Day6LetsReview\Day6LetsReview\obj\Debug\netcoreapp2.1\Day6LetsReview.pdb

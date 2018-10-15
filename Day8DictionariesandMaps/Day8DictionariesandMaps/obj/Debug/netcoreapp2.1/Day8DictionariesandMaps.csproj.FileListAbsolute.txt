@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\bin\Debug\netcoreapp2.1\Day8DictionariesandMaps.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\bin\Debug\netcoreapp2.1\Day8DictionariesandMaps.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\bin\Debug\netcoreapp2.1\Day8DictionariesandMaps.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\bin\Debug\netcoreapp2.1\Day8DictionariesandMaps.dll
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\bin\Debug\netcoreapp2.1\Day8DictionariesandMaps.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\obj\Debug\netcoreapp2.1\Day8DictionariesandMaps.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\obj\Debug\netcoreapp2.1\Day8DictionariesandMaps.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\obj\Debug\netcoreapp2.1\Day8DictionariesandMaps.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\obj\Debug\netcoreapp2.1\Day8DictionariesandMaps.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\obj\Debug\netcoreapp2.1\Day8DictionariesandMaps.dll
+C:\Users\IMCS\source\repos\HackerRank\Day8DictionariesandMaps\Day8DictionariesandMaps\obj\Debug\netcoreapp2.1\Day8DictionariesandMaps.pdb

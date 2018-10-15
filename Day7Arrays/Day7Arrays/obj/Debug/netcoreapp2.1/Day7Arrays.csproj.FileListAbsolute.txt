@@ -1,0 +1,10 @@
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\obj\Debug\netcoreapp2.1\Day7Arrays.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\obj\Debug\netcoreapp2.1\Day7Arrays.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\obj\Debug\netcoreapp2.1\Day7Arrays.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\bin\Debug\netcoreapp2.1\Day7Arrays.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\bin\Debug\netcoreapp2.1\Day7Arrays.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\bin\Debug\netcoreapp2.1\Day7Arrays.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\bin\Debug\netcoreapp2.1\Day7Arrays.dll
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\bin\Debug\netcoreapp2.1\Day7Arrays.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\obj\Debug\netcoreapp2.1\Day7Arrays.dll
+C:\Users\IMCS\source\repos\HackerRank\Day7Arrays\Day7Arrays\obj\Debug\netcoreapp2.1\Day7Arrays.pdb

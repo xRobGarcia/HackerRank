@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\bin\Debug\netcoreapp2.1\Day5Loops.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\bin\Debug\netcoreapp2.1\Day5Loops.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\bin\Debug\netcoreapp2.1\Day5Loops.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\bin\Debug\netcoreapp2.1\Day5Loops.dll
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\bin\Debug\netcoreapp2.1\Day5Loops.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\obj\Debug\netcoreapp2.1\Day5Loops.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\obj\Debug\netcoreapp2.1\Day5Loops.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\obj\Debug\netcoreapp2.1\Day5Loops.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\obj\Debug\netcoreapp2.1\Day5Loops.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\obj\Debug\netcoreapp2.1\Day5Loops.dll
+C:\Users\IMCS\source\repos\HackerRank\Day5Loops\Day5Loops\obj\Debug\netcoreapp2.1\Day5Loops.pdb

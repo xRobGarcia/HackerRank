@@ -1,0 +1,10 @@
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\bin\Debug\netcoreapp2.1\Day1DataTypes.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\bin\Debug\netcoreapp2.1\Day1DataTypes.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\bin\Debug\netcoreapp2.1\Day1DataTypes.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\bin\Debug\netcoreapp2.1\Day1DataTypes.dll
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\bin\Debug\netcoreapp2.1\Day1DataTypes.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\obj\Debug\netcoreapp2.1\Day1DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\obj\Debug\netcoreapp2.1\Day1DataTypes.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\obj\Debug\netcoreapp2.1\Day1DataTypes.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\obj\Debug\netcoreapp2.1\Day1DataTypes.dll
+C:\Users\IMCS\source\repos\HackerRank\Day1DataTypes\Day1DataTypes\obj\Debug\netcoreapp2.1\Day1DataTypes.pdb

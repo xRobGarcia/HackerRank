@@ -1,0 +1,10 @@
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\bin\Debug\netcoreapp2.1\Day2Operators.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\bin\Debug\netcoreapp2.1\Day2Operators.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\bin\Debug\netcoreapp2.1\Day2Operators.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\bin\Debug\netcoreapp2.1\Day2Operators.dll
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\bin\Debug\netcoreapp2.1\Day2Operators.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\obj\Debug\netcoreapp2.1\Day2Operators.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\obj\Debug\netcoreapp2.1\Day2Operators.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\obj\Debug\netcoreapp2.1\Day2Operators.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\obj\Debug\netcoreapp2.1\Day2Operators.dll
+C:\Users\IMCS\source\repos\HackerRank\Day2Operators\Day2Operators\obj\Debug\netcoreapp2.1\Day2Operators.pdb

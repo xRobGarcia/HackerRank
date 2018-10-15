@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\obj\Debug\netcoreapp2.1\BeautifulQuadruples.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\obj\Debug\netcoreapp2.1\BeautifulQuadruples.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\obj\Debug\netcoreapp2.1\BeautifulQuadruples.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\bin\Debug\netcoreapp2.1\BeautifulQuadruples.deps.json
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\bin\Debug\netcoreapp2.1\BeautifulQuadruples.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\bin\Debug\netcoreapp2.1\BeautifulQuadruples.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\bin\Debug\netcoreapp2.1\BeautifulQuadruples.dll
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\bin\Debug\netcoreapp2.1\BeautifulQuadruples.pdb
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\obj\Debug\netcoreapp2.1\BeautifulQuadruples.dll
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\obj\Debug\netcoreapp2.1\BeautifulQuadruples.pdb
+C:\Users\IMCS\source\repos\HackerRank\BeautifulQuadruples\BeautifulQuadruples\obj\Debug\netcoreapp2.1\BeautifulQuadruples.csprojAssemblyReference.cache

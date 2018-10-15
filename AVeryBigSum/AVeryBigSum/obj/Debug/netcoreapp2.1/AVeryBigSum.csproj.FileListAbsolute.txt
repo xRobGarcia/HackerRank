@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp2.1\AVeryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp2.1\AVeryBigSum.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp2.1\AVeryBigSum.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\netcoreapp2.1\AVeryBigSum.deps.json
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\netcoreapp2.1\AVeryBigSum.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\netcoreapp2.1\AVeryBigSum.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\netcoreapp2.1\AVeryBigSum.dll
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\bin\Debug\netcoreapp2.1\AVeryBigSum.pdb
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp2.1\AVeryBigSum.dll
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp2.1\AVeryBigSum.pdb
+C:\Users\IMCS\source\repos\HackerRank\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp2.1\AVeryBigSum.csprojAssemblyReference.cache
