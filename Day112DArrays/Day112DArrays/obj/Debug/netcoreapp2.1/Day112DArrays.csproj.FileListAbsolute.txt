@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\obj\Debug\netcoreapp2.1\Day112DArrays.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\obj\Debug\netcoreapp2.1\Day112DArrays.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\obj\Debug\netcoreapp2.1\Day112DArrays.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\obj\Debug\netcoreapp2.1\Day112DArrays.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\bin\Debug\netcoreapp2.1\Day112DArrays.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\bin\Debug\netcoreapp2.1\Day112DArrays.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\bin\Debug\netcoreapp2.1\Day112DArrays.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\bin\Debug\netcoreapp2.1\Day112DArrays.dll
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\bin\Debug\netcoreapp2.1\Day112DArrays.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\obj\Debug\netcoreapp2.1\Day112DArrays.dll
+C:\Users\IMCS\source\repos\HackerRank\Day112DArrays\Day112DArrays\obj\Debug\netcoreapp2.1\Day112DArrays.pdb
