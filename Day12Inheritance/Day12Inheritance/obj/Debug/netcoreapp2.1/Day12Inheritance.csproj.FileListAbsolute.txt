@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\obj\Debug\netcoreapp2.1\Day12Inheritance.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\obj\Debug\netcoreapp2.1\Day12Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\obj\Debug\netcoreapp2.1\Day12Inheritance.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\obj\Debug\netcoreapp2.1\Day12Inheritance.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\bin\Debug\netcoreapp2.1\Day12Inheritance.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\bin\Debug\netcoreapp2.1\Day12Inheritance.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\bin\Debug\netcoreapp2.1\Day12Inheritance.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\bin\Debug\netcoreapp2.1\Day12Inheritance.dll
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\bin\Debug\netcoreapp2.1\Day12Inheritance.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\obj\Debug\netcoreapp2.1\Day12Inheritance.dll
+C:\Users\IMCS\source\repos\HackerRank\Day12Inheritance\Day12Inheritance\obj\Debug\netcoreapp2.1\Day12Inheritance.pdb
