@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp2.1\ArraysLeftRotation.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp2.1\ArraysLeftRotation.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp2.1\ArraysLeftRotation.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp2.1\ArraysLeftRotation.deps.json
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp2.1\ArraysLeftRotation.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp2.1\ArraysLeftRotation.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp2.1\ArraysLeftRotation.dll
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp2.1\ArraysLeftRotation.pdb
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp2.1\ArraysLeftRotation.dll
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp2.1\ArraysLeftRotation.pdb
+C:\Users\IMCS\source\repos\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp2.1\ArraysLeftRotation.csprojAssemblyReference.cache

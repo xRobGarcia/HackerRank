@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\bin\Debug\netcoreapp2.1\Day19Interfaces.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\bin\Debug\netcoreapp2.1\Day19Interfaces.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\bin\Debug\netcoreapp2.1\Day19Interfaces.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\bin\Debug\netcoreapp2.1\Day19Interfaces.dll
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\bin\Debug\netcoreapp2.1\Day19Interfaces.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\obj\Debug\netcoreapp2.1\Day19Interfaces.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\obj\Debug\netcoreapp2.1\Day19Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\obj\Debug\netcoreapp2.1\Day19Interfaces.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\obj\Debug\netcoreapp2.1\Day19Interfaces.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\obj\Debug\netcoreapp2.1\Day19Interfaces.dll
+C:\Users\IMCS\source\repos\HackerRank\Day19Interfaces\Day19Interfaces\obj\Debug\netcoreapp2.1\Day19Interfaces.pdb

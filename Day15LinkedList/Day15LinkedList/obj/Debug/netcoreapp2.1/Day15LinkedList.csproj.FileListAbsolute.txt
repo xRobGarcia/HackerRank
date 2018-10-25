@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\bin\Debug\netcoreapp2.1\Day15LinkedList.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\bin\Debug\netcoreapp2.1\Day15LinkedList.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\bin\Debug\netcoreapp2.1\Day15LinkedList.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\bin\Debug\netcoreapp2.1\Day15LinkedList.dll
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\bin\Debug\netcoreapp2.1\Day15LinkedList.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\obj\Debug\netcoreapp2.1\Day15LinkedList.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\obj\Debug\netcoreapp2.1\Day15LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\obj\Debug\netcoreapp2.1\Day15LinkedList.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\obj\Debug\netcoreapp2.1\Day15LinkedList.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\obj\Debug\netcoreapp2.1\Day15LinkedList.dll
+C:\Users\IMCS\source\repos\HackerRank\Day15LinkedList\Day15LinkedList\obj\Debug\netcoreapp2.1\Day15LinkedList.pdb

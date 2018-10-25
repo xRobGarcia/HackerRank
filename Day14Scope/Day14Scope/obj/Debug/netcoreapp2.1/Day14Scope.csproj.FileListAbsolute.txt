@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\bin\Debug\netcoreapp2.1\Day14Scope.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\bin\Debug\netcoreapp2.1\Day14Scope.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\bin\Debug\netcoreapp2.1\Day14Scope.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\bin\Debug\netcoreapp2.1\Day14Scope.dll
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\bin\Debug\netcoreapp2.1\Day14Scope.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\obj\Debug\netcoreapp2.1\Day14Scope.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\obj\Debug\netcoreapp2.1\Day14Scope.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\obj\Debug\netcoreapp2.1\Day14Scope.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\obj\Debug\netcoreapp2.1\Day14Scope.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\obj\Debug\netcoreapp2.1\Day14Scope.dll
+C:\Users\IMCS\source\repos\HackerRank\Day14Scope\Day14Scope\obj\Debug\netcoreapp2.1\Day14Scope.pdb

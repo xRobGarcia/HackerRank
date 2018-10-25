@@ -26,13 +26,13 @@ namespace Day112DArrays
                new int[] {0, 0, 1, 2, 4, 0}
             };
 
-            Console.WriteLine(HigestSumOfArray(arr, size));
+            Console.WriteLine(hourglassSum(arr));
             Console.ReadLine();
         }
 
-        private static int HigestSumOfArray(int[][] A, int size)
+        private static int hourglassSum(int[][] A)
         {
-            var result = GetHourGlassesArrays(A, size);
+            var result = GetHourGlassesArrays(A);
 
             List<int> results = new List<int>();
             foreach (var arry in result)
@@ -51,9 +51,11 @@ namespace Day112DArrays
 
 
 
-        static int[,][,] GetHourGlassesArrays(int[][] A, int size)
+        static int[,][,] GetHourGlassesArrays(int[][] A)
         {
             int AResult = 16;
+
+            int size = 3;
 
             int[,][,] ArraysOfArrays = new int[4, 4][,];
 

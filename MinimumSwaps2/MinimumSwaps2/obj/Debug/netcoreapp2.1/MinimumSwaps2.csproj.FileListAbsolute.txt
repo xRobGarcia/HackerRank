@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\netcoreapp2.1\MinimumSwaps2.deps.json
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\netcoreapp2.1\MinimumSwaps2.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\netcoreapp2.1\MinimumSwaps2.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\netcoreapp2.1\MinimumSwaps2.dll
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\netcoreapp2.1\MinimumSwaps2.pdb
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\netcoreapp2.1\MinimumSwaps2.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\netcoreapp2.1\MinimumSwaps2.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\netcoreapp2.1\MinimumSwaps2.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\netcoreapp2.1\MinimumSwaps2.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\netcoreapp2.1\MinimumSwaps2.dll
+C:\Users\IMCS\source\repos\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\netcoreapp2.1\MinimumSwaps2.pdb

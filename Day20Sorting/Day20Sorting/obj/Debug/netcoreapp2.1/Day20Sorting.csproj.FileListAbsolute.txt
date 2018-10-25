@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\obj\Debug\netcoreapp2.1\Day20Sorting.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\obj\Debug\netcoreapp2.1\Day20Sorting.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\obj\Debug\netcoreapp2.1\Day20Sorting.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\obj\Debug\netcoreapp2.1\Day20Sorting.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\bin\Debug\netcoreapp2.1\Day20Sorting.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\bin\Debug\netcoreapp2.1\Day20Sorting.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\bin\Debug\netcoreapp2.1\Day20Sorting.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\bin\Debug\netcoreapp2.1\Day20Sorting.dll
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\bin\Debug\netcoreapp2.1\Day20Sorting.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\obj\Debug\netcoreapp2.1\Day20Sorting.dll
+C:\Users\IMCS\source\repos\HackerRank\Day20Sorting\Day20Sorting\obj\Debug\netcoreapp2.1\Day20Sorting.pdb

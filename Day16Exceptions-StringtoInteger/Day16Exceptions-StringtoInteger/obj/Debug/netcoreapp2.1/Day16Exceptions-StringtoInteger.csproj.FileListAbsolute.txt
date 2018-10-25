@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\bin\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\bin\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\bin\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\bin\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.dll
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\bin\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\obj\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\obj\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\obj\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\obj\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\obj\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.dll
+C:\Users\IMCS\source\repos\HackerRank\Day16Exceptions-StringtoInteger\Day16Exceptions-StringtoInteger\obj\Debug\netcoreapp2.1\Day16Exceptions-StringtoInteger.pdb

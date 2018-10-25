@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.deps.json
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.dll
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.pdb
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.dll
+C:\Users\IMCS\source\repos\HackerRank\SockMerchant\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.pdb

@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.deps.json
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.dll
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.pdb
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.dll
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.pdb
+C:\Users\IMCS\source\repos\HackerRank\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.csprojAssemblyReference.cache

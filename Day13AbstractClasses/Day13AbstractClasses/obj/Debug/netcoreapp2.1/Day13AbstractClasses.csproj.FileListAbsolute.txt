@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\bin\Debug\netcoreapp2.1\Day13AbstractClasses.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\bin\Debug\netcoreapp2.1\Day13AbstractClasses.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\bin\Debug\netcoreapp2.1\Day13AbstractClasses.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\bin\Debug\netcoreapp2.1\Day13AbstractClasses.dll
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\bin\Debug\netcoreapp2.1\Day13AbstractClasses.pdb
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\obj\Debug\netcoreapp2.1\Day13AbstractClasses.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\obj\Debug\netcoreapp2.1\Day13AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\obj\Debug\netcoreapp2.1\Day13AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\obj\Debug\netcoreapp2.1\Day13AbstractClasses.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\obj\Debug\netcoreapp2.1\Day13AbstractClasses.dll
+C:\Users\IMCS\source\repos\HackerRank\Day13AbstractClasses\Day13AbstractClasses\obj\Debug\netcoreapp2.1\Day13AbstractClasses.pdb

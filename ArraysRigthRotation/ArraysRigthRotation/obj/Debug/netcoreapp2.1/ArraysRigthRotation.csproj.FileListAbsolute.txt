@@ -1,0 +1,10 @@
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\bin\Debug\netcoreapp2.1\ArraysRigthRotation.deps.json
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\bin\Debug\netcoreapp2.1\ArraysRigthRotation.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\bin\Debug\netcoreapp2.1\ArraysRigthRotation.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\bin\Debug\netcoreapp2.1\ArraysRigthRotation.dll
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\bin\Debug\netcoreapp2.1\ArraysRigthRotation.pdb
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\obj\Debug\netcoreapp2.1\ArraysRigthRotation.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\obj\Debug\netcoreapp2.1\ArraysRigthRotation.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\obj\Debug\netcoreapp2.1\ArraysRigthRotation.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\obj\Debug\netcoreapp2.1\ArraysRigthRotation.dll
+C:\Users\IMCS\source\repos\HackerRank\ArraysRigthRotation\ArraysRigthRotation\obj\Debug\netcoreapp2.1\ArraysRigthRotation.pdb
