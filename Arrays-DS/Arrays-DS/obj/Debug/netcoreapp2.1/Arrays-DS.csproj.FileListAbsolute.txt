@@ -1,0 +1,10 @@
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\netcoreapp2.1\Arrays-DS.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\netcoreapp2.1\Arrays-DS.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\netcoreapp2.1\Arrays-DS.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\netcoreapp2.1\Arrays-DS.deps.json
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\netcoreapp2.1\Arrays-DS.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\netcoreapp2.1\Arrays-DS.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\netcoreapp2.1\Arrays-DS.dll
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\netcoreapp2.1\Arrays-DS.pdb
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\netcoreapp2.1\Arrays-DS.dll
+C:\Users\IMCS\source\repos\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\netcoreapp2.1\Arrays-DS.pdb

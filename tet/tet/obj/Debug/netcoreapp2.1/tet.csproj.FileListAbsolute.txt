@@ -1,0 +1,11 @@
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\bin\Debug\netcoreapp2.1\tet.deps.json
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\bin\Debug\netcoreapp2.1\tet.runtimeconfig.json
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\bin\Debug\netcoreapp2.1\tet.runtimeconfig.dev.json
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\bin\Debug\netcoreapp2.1\tet.dll
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\bin\Debug\netcoreapp2.1\tet.pdb
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\obj\Debug\netcoreapp2.1\tet.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\obj\Debug\netcoreapp2.1\tet.csproj.CoreCompileInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\obj\Debug\netcoreapp2.1\tet.AssemblyInfoInputs.cache
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\obj\Debug\netcoreapp2.1\tet.AssemblyInfo.cs
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\obj\Debug\netcoreapp2.1\tet.dll
+C:\Users\IMCS\source\repos\HackerRank\tet\tet\obj\Debug\netcoreapp2.1\tet.pdb
