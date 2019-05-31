@@ -31,13 +31,13 @@ namespace DyamicParser
                 Console.WriteLine(r.Password);
                 Console.WriteLine(r.TimeToLive);
                 Console.WriteLine(r.IsEnabled);
-                // Console.WriteLine(r.NoExiste);
+                Console.WriteLine(r.NoExiste);
 
 
             }
-            catch (Exception)
+            catch (RuntimeBinderException)
             {
-
+                //If someone tries to read a property (a key) which is not found in a configuration file then an exception should be thrown (in the following way: throw new UnknownKeyException();).
                 throw new UnknownKeyException();
             }
             Console.ReadKey();
@@ -46,6 +46,7 @@ namespace DyamicParser
         [Serializable]
         private class UnknownKeyException : Exception
         {
+            //If someone tries to read a property (a key) which is not found in a configuration file then an exception should be thrown (in the following way: throw new UnknownKeyException();).
             public UnknownKeyException() {}
             public UnknownKeyException(string message) : base(message) {}
             public UnknownKeyException(string message, Exception innerException) : base(message, innerException) {}
