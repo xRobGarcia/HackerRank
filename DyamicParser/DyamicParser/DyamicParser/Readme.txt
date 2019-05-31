@@ -25,4 +25,4 @@ Additional requirements:
 *done If someone tries to read a property (a key) which is not found in a configuration file then an exception should be thrown (in the following way: throw new UnknownKeyException();).
 *done If a key name is null or empty then an exception should be thrown (in the following way: throw new EmptyKeyException();).
 *done If a key found in a configuration file cannot be used as a property in C# then an exception should be thrown (in the following way: throw new InvalidKeyException();). You can assume that a key name is correct if and only if it consists of letters (a–z and A–Z) and digits (0–9), and does not start with a digit.
-You should throw an exception (in the following way: throw new DuplicatedKeyException()) if a duplicated key name is found in a configuration file.
+*done You should throw an exception (in the following way: throw new DuplicatedKeyException()) if a duplicated key name is found in a configuration file.

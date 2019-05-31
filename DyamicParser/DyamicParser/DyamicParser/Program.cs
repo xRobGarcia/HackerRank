@@ -12,18 +12,17 @@ namespace DyamicParser
     {
         static void Main(string[] args)
         {
-            string s = @"   UserName: admin;
-                            UserName: anotherAdmin;
+            string s = @"   
+                            UserName: admin;
                             Password: super password;
 
                             TimeToLive: 4;
                             IsEnabled: true;   
-                            1QuePedo: true;   
                         ";
-
 
             var parser = new Parser();
             var r = parser.Parse(s);
+
 
             try
             {
@@ -32,34 +31,25 @@ namespace DyamicParser
                 Console.WriteLine(r.Password);
                 Console.WriteLine(r.TimeToLive);
                 Console.WriteLine(r.IsEnabled);
-                Console.ReadKey();
+                // Console.WriteLine(r.NoExiste);
+
+
             }
-            catch (RuntimeBinderException)
+            catch (Exception)
             {
-                //If someone tries to read a property (a key) which is not found in a configuration file then an exception should be thrown (in the following way: throw new UnknownKeyException();).
-                throw new UnknownKeyException(); 
+
+                throw new UnknownKeyException();
             }
+            Console.ReadKey();
         }
 
         [Serializable]
         private class UnknownKeyException : Exception
         {
-            public UnknownKeyException()
-            {
-            }
-
-            public UnknownKeyException(string message) : base(message)
-            {
-            }
-
-            public UnknownKeyException(string message, Exception innerException) : base(message, innerException)
-            {
-            }
-
-            protected UnknownKeyException(SerializationInfo info, StreamingContext context) : base(info, context)
-            {
-            }
+            public UnknownKeyException() {}
+            public UnknownKeyException(string message) : base(message) {}
+            public UnknownKeyException(string message, Exception innerException) : base(message, innerException) {}
+            protected UnknownKeyException(SerializationInfo info, StreamingContext context) : base(info, context) {}
         }
     }
-
 }
