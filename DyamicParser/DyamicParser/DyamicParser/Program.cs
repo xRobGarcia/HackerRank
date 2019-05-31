@@ -31,7 +31,7 @@ namespace DyamicParser
                 Console.WriteLine(r.Password);
                 Console.WriteLine(r.TimeToLive);
                 Console.WriteLine(r.IsEnabled);
-                Console.WriteLine(r.NoExiste);
+                //Console.WriteLine(r.NoExiste);
 
 
             }

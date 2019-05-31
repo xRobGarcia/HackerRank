@@ -12,17 +12,10 @@ namespace DyamicParser
 
         public dynamic Parse(string configuration)
         {
-            //The parser should trim off all key names and all string values.
-            string stringJSON = Regex.Replace(configuration, @"\s*([^\s]*)\s*:(?<=:)\s*(.*?)\s*(?=;);\s*", "\"$1\" : \"$2\",", RegexOptions.Multiline).Trim().TrimEnd(',');
-
-            dynamic dynamicJSON = JObject.Parse("{" + stringJSON + "}");
-
-            JSONValidations(configuration, stringJSON, dynamicJSON);
-
-            return dynamicJSON;
+            return JSONValidations(configuration); 
         }
 
-        private void JSONValidations(string configuration, string stringJSON, dynamic dynamicJSON)
+        private dynamic JSONValidations(string configuration)
         {
             if (configuration == string.Empty || configuration == null)
             {
@@ -30,12 +23,16 @@ namespace DyamicParser
                 throw new ArgumentException();
             }
 
+            //The parser should trim off all key names and all string values.
+            string stringJSON = Regex.Replace(configuration, @"\s*([^\s]*)\s*:(?<=:)\s*(.*?)\s*(?=;);\s*", "\"$1\" : \"$2\",", RegexOptions.Multiline).Trim().TrimEnd(',');
+
             if (HaveJSONeDuplicateKeys(stringJSON))
             {
                 //You should throw an exception (in the following way: throw new DuplicatedKeyException()) if a duplicated key name is found in a configuration file.
                 throw new DuplicatedKeyException();
             }
 
+            dynamic dynamicJSON = JObject.Parse("{" + stringJSON + "}");
             foreach (dynamic item in dynamicJSON)
             {
                 //If a key name is null or empty then an exception should be thrown (in the following way: throw new EmptyKeyException();).
@@ -50,6 +47,8 @@ namespace DyamicParser
                     throw new InvalidKeyException();
                 }
             }
+
+            return dynamicJSON;
         }
 
         private bool HaveJSONeDuplicateKeys(string stringJSON)
@@ -69,6 +68,7 @@ namespace DyamicParser
             return false;
         }
 
+        [Serializable]
         private class EmptyKeyException : Exception
         {
             public EmptyKeyException() {}
@@ -77,6 +77,7 @@ namespace DyamicParser
             protected EmptyKeyException(SerializationInfo info, StreamingContext context) : base(info, context) {}
         }
 
+        [Serializable]
         private class InvalidKeyException : Exception
         {
             public InvalidKeyException() {}
@@ -85,6 +86,7 @@ namespace DyamicParser
             protected InvalidKeyException(SerializationInfo info, StreamingContext context) : base(info, context) {}
         }
 
+        [Serializable]
         private class DuplicatedKeyException : Exception
         {
             public DuplicatedKeyException() {}
