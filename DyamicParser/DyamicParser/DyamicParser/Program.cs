@@ -13,11 +13,17 @@ namespace DyamicParser
         static void Main(string[] args)
         {
             string s = @"   
-                            UserName: admin;
-                            Password: super password;
+                          UserName:admin;
+                            Password:""super%^&*333password;
+                            DNSName:SomeName;
 
-                            TimeToLive: 4;
-                            IsEnabled: true;   
+                            TimeToLive:-33333;
+                            ClusterSize:2;
+                            PortNumber:2222;
+
+                            IsEnabled:true;
+                            EnsureTransaction:false;
+                            PersistentStorage:false;
                         ";
 
             var parser = new Parser();
@@ -29,8 +35,13 @@ namespace DyamicParser
 
                 Console.WriteLine(r.UserName);
                 Console.WriteLine(r.Password);
+                Console.WriteLine(r.DNSName);
                 Console.WriteLine(r.TimeToLive);
+                Console.WriteLine(r.ClusterSize);
+                Console.WriteLine(r.PortNumber);
                 Console.WriteLine(r.IsEnabled);
+                Console.WriteLine(r.EnsureTransaction);
+                Console.WriteLine(r.PersistentStorage);
                 //Console.WriteLine(r.NoExiste);
 
 
